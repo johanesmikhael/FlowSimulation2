@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/joglP5-3.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mason-19"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-3.0"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
